@@ -20,7 +20,7 @@ Create an API that allows you to receive and transmit information about parking 
 
 To run this project locally, follow these steps:
 1. Clone the repository:
-   git clone https://github.com/rlazyrk/courseWork-algo-part2.git
+   git clone https://github.com/rlazyrk/courseWork.git
 2. Open project in your IDE
 3. Build project with command : mvn clean install
 4. Run the application with command : mvn spring-boot: run
